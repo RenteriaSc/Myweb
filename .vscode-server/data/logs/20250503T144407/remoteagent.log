@@ -1,0 +1,45 @@
+2025-05-03 14:44:07.159 [info] 
+
+
+
+
+2025-05-03 14:44:07.169 [info] Extension host agent started.
+2025-05-03 14:44:07.328 [info] [127.0.0.1][bdca9477][ManagementConnection] New connection established.
+2025-05-03 14:44:07.560 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] New connection established.
+2025-05-03 14:44:07.657 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] <4420> Launched Extension Host Process.
+2025-05-03 14:44:26.240 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] <4420> [0mGET /favicon.ico [33m404[0m 1.956 ms - 150[0m
+
+2025-05-03 14:52:07.963 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 14:52:08.119 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 15:37:46.857 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 15:37:47.076 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 15:37:51.523 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 15:37:51.618 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 15:38:36.010 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 15:38:36.143 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 20:48:08.647 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 20:48:08.755 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 20:48:13.490 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 20:48:13.649 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 20:51:34.758 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 20:51:34.866 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 20:51:39.716 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 20:51:40.012 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 20:52:06.453 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 20:52:06.679 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 20:52:11.234 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-03 20:52:11.405 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 21:56:47.729 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-03 21:56:47.813 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-04 16:33:02.889 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-04 16:33:03.182 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-04 21:28:32.470 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-04 21:28:32.594 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-05 06:36:53.958 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-05 06:36:54.118 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-05 15:26:03.148 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-05 15:26:03.268 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-05 16:49:37.506 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has reconnected.
+2025-05-05 19:51:01.509 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] The client has reconnected.
+2025-05-05 20:49:05.254 [info] [127.0.0.1][bdca9477][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-05 20:49:05.355 [info] [127.0.0.1][91cd1774][ExtensionHostConnection] <4420> Extension Host Process exited with code: 0, signal: null.

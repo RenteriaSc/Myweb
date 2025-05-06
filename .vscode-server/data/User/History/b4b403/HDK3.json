@@ -1,0 +1,6 @@
+{
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "Julia (Monokai Classic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true
+}

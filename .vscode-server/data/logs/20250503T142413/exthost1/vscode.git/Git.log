@@ -1,0 +1,43 @@
+2025-05-03 14:24:31.283 [info] [main] Log level: Info
+2025-05-03 14:24:31.283 [info] [main] Validating found git in: "git"
+2025-05-03 14:24:31.283 [info] [main] Using git "2.43.0" from "git"
+2025-05-03 14:24:31.284 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-03 14:24:31.284 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-03 14:24:31.284 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:24:31.284 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-03 14:24:31.284 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:24:31.287 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:24:31.287 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:24:31.289 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-03 14:24:31.289 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:24:31.291 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-03 14:25:20.854 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:25:20.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:25:23.573 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:25:23.573 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:25:24.343 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:25:24.343 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:25:24.894 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:25:24.894 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:25:25.352 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:25:25.352 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:25:37.457 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:25:37.457 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:42:12.676 [info] > git rev-parse --show-toplevel [8ms]
+2025-05-03 14:42:12.677 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:43:16.930 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:43:16.930 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:43:18.654 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:43:18.654 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-03 14:43:19.284 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/eslint/node_modules/run-async/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/eslint/node_modules/run-async/'
+2025-05-03 14:43:19.288 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/d/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/d/'
+2025-05-03 14:43:19.290 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/es5-ext/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/es5-ext/'
+2025-05-03 14:43:19.291 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/resolve/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/resolve/'
+2025-05-03 14:43:19.293 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/resolve/test/resolver/symlinked/_/symlink_target/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/resolve/test/resolver/symlinked/_/symlink_target/'
+2025-05-03 14:43:19.295 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/acorn-jsx/node_modules/acorn/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/acorn-jsx/node_modules/acorn/'
+2025-05-03 14:43:19.297 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/es6-symbol/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/es6-symbol/'
+2025-05-03 14:43:19.299 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/ext/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/ext/'
+2025-05-03 14:43:19.301 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/supports-preserve-symlinks-flag/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/supports-preserve-symlinks-flag/'
+2025-05-03 14:43:19.303 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/sebasrc/.vscode-server/extensions/.cb50e1d3-fd03-47d4-91f9-d5e597a3d0dc/node_modules/balanced-match/'
+2025-05-03 14:43:33.910 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-03 14:43:33.910 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,17 @@
+2025-05-03 14:24:13.659 [info] 
+
+
+
+
+2025-05-03 14:24:13.669 [info] Extension host agent started.
+2025-05-03 14:24:13.790 [info] [127.0.0.1][9fcc6857][ManagementConnection] New connection established.
+2025-05-03 14:24:13.983 [info] [127.0.0.1][e70dad0f][ExtensionHostConnection] New connection established.
+2025-05-03 14:24:13.985 [info] [127.0.0.1][e70dad0f][ExtensionHostConnection] <583> Launched Extension Host Process.
+2025-05-03 14:43:13.178 [info] Getting Manifest... ritwickdey.liveserver
+2025-05-03 14:43:13.339 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/sebasrc/.vscode-server/extensions/extensions.json","external":"file:///home/sebasrc/.vscode-server/extensions/extensions.json","path":"/home/sebasrc/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.99.3","date":"2025-04-15T23:18:46.076Z"}}
+2025-05-03 14:43:15.495 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 1161ms.
+2025-05-03 14:43:18.370 [info] Extracted extension to file:///home/sebasrc/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-05-03 14:43:18.585 [info] Renamed to /home/sebasrc/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2025-05-03 14:43:18.597 [info] Extension installed successfully: ritwickdey.liveserver file:///home/sebasrc/.vscode-server/extensions/extensions.json
+2025-05-03 14:43:42.452 [info] [127.0.0.1][9fcc6857][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-03 14:43:42.489 [info] [127.0.0.1][e70dad0f][ExtensionHostConnection] <583> Extension Host Process exited with code: 0, signal: null.

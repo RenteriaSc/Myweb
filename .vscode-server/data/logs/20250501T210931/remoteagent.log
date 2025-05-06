@@ -1,0 +1,13 @@
+2025-05-01 21:09:31.312 [info] 
+
+
+
+
+2025-05-01 21:09:31.320 [info] Extension host agent started.
+2025-05-01 21:09:31.354 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sebasrc/.vscode-server/extensions
+2025-05-01 21:09:31.372 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sebasrc/.vscode-server/extensions
+2025-05-01 21:09:31.454 [info] [127.0.0.1][3ce284aa][ManagementConnection] New connection established.
+2025-05-01 21:09:31.629 [info] [127.0.0.1][71824090][ExtensionHostConnection] New connection established.
+2025-05-01 21:09:31.635 [info] [127.0.0.1][71824090][ExtensionHostConnection] <627> Launched Extension Host Process.
+2025-05-01 21:10:03.696 [info] [127.0.0.1][3ce284aa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-01 21:10:03.721 [info] [127.0.0.1][71824090][ExtensionHostConnection] <627> Extension Host Process exited with code: 0, signal: null.
