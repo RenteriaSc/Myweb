@@ -7,3 +7,27 @@
 2025-05-05 20:50:09.810 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] New connection established.
 2025-05-05 20:50:09.993 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] New connection established.
 2025-05-05 20:50:10.055 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] <135598> Launched Extension Host Process.
+2025-05-05 23:09:38.306 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-05 23:09:38.641 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-05 23:46:13.020 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-05 23:46:13.239 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 11:18:28.337 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-06 11:18:32.955 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-05-06 11:18:38.184 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-05-06 11:18:38.184 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 11:18:56.343 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-06 11:18:56.491 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 11:20:42.716 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 11:20:43.093 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-06 20:29:36.486 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 20:29:40.584 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-06 20:30:05.859 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 20:30:05.951 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-06 21:39:04.311 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-06 21:39:04.906 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-07 08:01:00.489 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-07 08:01:00.498 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-07 14:48:09.437 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-05-07 14:52:19.444 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-05-07 14:52:19.447 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
+2025-05-07 14:52:19.613 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
