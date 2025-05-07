@@ -31,3 +31,5 @@
 2025-05-07 14:52:19.444 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
 2025-05-07 14:52:19.447 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
 2025-05-07 14:52:19.613 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-07 16:08:27.456 [info] [127.0.0.1][8e1e4f2f][ManagementConnection] The client has reconnected.
+2025-05-07 16:08:27.721 [info] [127.0.0.1][4f1f15e1][ExtensionHostConnection] The client has reconnected.
